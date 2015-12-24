@@ -1,7 +1,7 @@
 #!/bin/bash
 
 dev="$HOME/Developer"
-dotfiles="$dev/paulmillr/dotfiles"
+dotfiles="$dev/anhany/dotfiles"
 
 if [[ -d "$dotfiles" ]]; then
   echo "Symlinking dotfiles from $dotfiles"
@@ -25,5 +25,5 @@ for location in $(find home -name '.*'); do
 done
 
 if [[ `uname` == 'Darwin' ]]; then
-  link "$dotfiles/sublime/Packages/User/Preferences.sublime-settings" "$HOME/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+#  link "$dotfiles/sublime/Packages/User/Preferences.sublime-settings" "$HOME/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"
 fi
