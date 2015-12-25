@@ -4,15 +4,10 @@ Colourful & robust OS X configuration files and utilities.
 Installation is done with simple command set (see “building system from scratch” for setup of new system):
 
 ```
-curl --silent https://raw.githubusercontent.com/paulmillr/dotfiles/master/install.sh | sh
+curl --silent https://raw.githubusercontent.com/anhany/dotfiles/master/install.sh | sh
 ```
 
 ## Features
-
-![](https://cloud.githubusercontent.com/assets/574696/3210643/80f11554-eed7-11e3-8c8f-5509bc304fc7.png)
-
-![](https://cloud.githubusercontent.com/assets/574696/3210642/7ecc9a00-eed7-11e3-9357-27c2a8576f80.png)
-
 Shell (zsh):
 
 * **NO DEPENDENCIES!**
