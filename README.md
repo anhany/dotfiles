@@ -1,6 +1,5 @@
 # Dotfiles
-Colourful & robust OS X configuration files and utilities.
-
+Colourful & robust OS X configuration files and utilities, forked from [Paul Miller's dotfiles](https://dotfiles.github.io/).
 Installation is done with simple command set (see “building system from scratch” for setup of new system):
 
 ```
@@ -61,6 +60,7 @@ Shell (zsh):
 
 The MIT license.
 
+Copyright (c) 2015 Andrew Hancey
 Copyright (c) 2013 Paul Miller (http://paulmillr.com/)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
